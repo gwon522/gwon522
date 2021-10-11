@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/static/v1?message=nesaz0522@naver.com&color=blue"/>
+<img src="https://img.shields.io/static/v1?label=Email&message=nesaz0522@naver.com&color=blue"/>
 ### 👋  Hi there I'm Web & mobile app developer using react-native and react, spring 
 
 <!--
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React.svg&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=data:React.svg&logoColor=white"/>
