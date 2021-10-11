@@ -1,5 +1,5 @@
 <img src="https://img.shields.io/static/v1?label=Email&message=nesaz0522@naver.com&color=blue"/>
-### 👋  Hi there I'm Web & mobile app developer using react-native and react, spring 
+👋  Hi there I'm Web & mobile app developer using react-native and react, spring 
 
 <!--
 **gwon522/gwon522** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=black"/>
+Skills
+<div style="flex:1">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=black"/>
+</div>
