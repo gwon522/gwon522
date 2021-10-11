@@ -1,4 +1,4 @@
-### 👋 Hi there 
+### 👋  Hi there I'm Web & mobile app developer using react-native and react, spring 
 
 <!--
 **gwon522/gwon522** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
