@@ -2,7 +2,7 @@
 <h2> 👋  Hi there </h2>
 현재 재직중인 직장에서 웹 및 앱 개발을 하고 있습니다. <br>
 reactNative를 통해 개발을 하고 있습니다. 서버는 Spring Boot기반입니다. <br>
-<a href="https://play.google.com/store/apps/details?id=kr.co.shim&hl=ko&gl=US" target="_blank">앱 링크</a><br>
+<a href="https://play.google.com/store/apps/details?id=kr.co.shim&hl=ko&gl=US" target="_blank">앱 링크</a> \t
 <a href="https://www.transhub.co.kr/main-login.do" target="_blank">웹 링크</a>
 <br>
 <h3> ⏰ Now </h3>
