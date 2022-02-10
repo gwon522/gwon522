@@ -6,7 +6,7 @@ reactNative를 통해 개발을 하고 있습니다. 서버는 Spring Boot기반
 <a href="https://www.transhub.co.kr/main-login.do">웹 링크</a>
 <br>
 <h3>📖Skill</h3>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=#61DAFB&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp 
 
 
 <h3> ⏰ Now </h3>
