@@ -7,9 +7,9 @@ reactNative를 통해 개발을 하고 있습니다. 서버는 Spring Boot기반
 <br>
 <h3> ⏰ Now </h3>
 현재 리액트에 관심이 있어 리액트 공부와 동시에 프로젝트를 진행 중입니다. 📖<br>
-<a href="https://github.com/gwon522/project">진행중인 프로젝트 (블라인드 클론코딩 react 구현) </a>
+<a href="https://github.com/gwon522/project">진행중인 프로젝트 (블라인드 클론코딩 react 구현) </a><br>
  - react, react-redux, redux-saga, express, mysql, axios
- - 
+
 <br>
 <h3> 경력</h3>
 2020.11 ~ 2021.03 SI 프로젝트 : 차세대 오토리스 구축프로젝트 (비즈시스템)<br>
