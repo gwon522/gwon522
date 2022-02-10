@@ -6,13 +6,13 @@ reactNative를 통해 개발을 하고 있습니다. 서버는 Spring Boot기반
 <a href="https://www.transhub.co.kr/main-login.do">웹 링크</a>
 <br>
 <h3>📖Skill</h3>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/><span style="display:none;">리액트</span></a>&nbsp 
-<img src="https://img.shields.io/badge/Java-E34F26?style=flat-square&logo=Java&logoColor=white"/><span style="display:none;">자바</span></a>&nbsp 
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/><span style="display:none;">스프링</span></a>&nbsp 
-<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/><span style="display:none;">오라클</span></a>&nbsp 
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Java-E34F26?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/HTML5-F7DF1E?style=flat-square&logo=HTML5Script&logoColor=white"/><span style="display:none;">HTML</span></a>&nbsp
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/><span style="display:none;">CSS</span></a>&nbsp
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/><span style="display:none;">자바스크립트</span></a>&nbsp 
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp 
 
 <h3> ⏰ Now </h3>
 현재 리액트에 관심이 있어 리액트 공부와 동시에 프로젝트를 진행 중입니다. 📖<br>
