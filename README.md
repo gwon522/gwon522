@@ -5,6 +5,10 @@ reactNative를 통해 개발을 하고 있습니다. 서버는 Spring Boot기반
 <a href="https://play.google.com/store/apps/details?id=kr.co.shim&hl=ko&gl=US">앱 링크</a> 
 <a href="https://www.transhub.co.kr/main-login.do">웹 링크</a>
 <br>
+<h3>📖Skill</h3>
+<img src="https://img.shields.io/badge/React-#?style=flat-square&logo=#61DAFB&logoColor=white"/></a>&nbsp 
+
+
 <h3> ⏰ Now </h3>
 현재 리액트에 관심이 있어 리액트 공부와 동시에 프로젝트를 진행 중입니다. 📖<br>
 <a href="https://github.com/gwon522/project">진행중인 프로젝트 (블라인드 클론코딩 react 구현) </a><br>
