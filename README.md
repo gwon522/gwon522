@@ -22,7 +22,7 @@ reactNative로 앱 개발을 하고 있습니다. 서버는 Spring Boot기반입
 
 <br>
 <h3> 경력</h3>
-##다이몬소프트 2021.04.01 ~ 현재 <br>
+## 다이몬소프트 2021.04.01 ~ 현재 <br>
 5G 기반 디지털 트윈 스마트 항만물류 프로젝트 (2021.09.01 ~ 2021.12.10) <br>
 사용기술 : Java, JavaScript, Egovframework, jsp/servlet, Oracle DB <br>
 - 화면 구현 <br>
@@ -31,7 +31,7 @@ reactNative로 앱 개발을 하고 있습니다. 서버는 Spring Boot기반입
 네이버 API를 이용한 최적경로 산출 API, 도착예상시간 API <br>
 - 느낀점(배운점) : 협업의 중요성, 편의성을 위한 라이브러리의 사용, UI 개발툴의 생산성 및 유용성<br><br>
   
-##비즈시스템 2020.11 ~ 2021.03<br>  
+## 비즈시스템 2020.11 ~ 2021.03<br>  
 차세대 오토리스 구축프로젝트 (2020.11 ~ 2021.03)<br>
 사용기술 : JAVA, JavaScript, Oracle DB, SVN <br>
 - 화면 구현 <br>
