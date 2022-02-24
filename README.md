@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/static/v1?label=Email&message=nesaz0522@naver.com&color=blue"/>
+<img src="https://img.shields.io/static/v1?label=Email&message=nesaz0522@naver.com&color=blue"/> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgwon522&count_bg=%233E45DF&title_bg=%237C7C7C&icon=&icon_color=%23E7E7E7&title=visited&edge_flat=false)](https://hits.seeyoufarm.com)
 <h2> 👋  Hi there </h2>
 현재 재직중인 직장에서 웹 및 앱 개발을 하고 있습니다. <br>
 reactNative로 앱 개발을 하고 있습니다. 서버는 Spring Boot기반입니다. <br>
@@ -18,7 +18,10 @@ reactNative로 앱 개발을 하고 있습니다. 서버는 Spring Boot기반입
 <h3> ⏰ Now </h3>
 리액트에 관심이 있어 리액트 공부와 동시에 프로젝트를 진행 중입니다. 📖<br>
 <a href="https://github.com/gwon522/project">진행중인 프로젝트 (블라인드 클론코딩 react 구현) </a><br>
-
+      
+  ![Gwon522 GitHub stats](https://github-readme-stats.vercel.app/api?username=gwon522&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gwon522&layout=compact&theme=tokyonight&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
+  
 <br>
 <h3> 경력</h3>
 <h4> 다이몬소프트 2021.04 ~ 현재 </h4>
@@ -62,3 +65,4 @@ reactNative로 앱 개발을 하고 있습니다. 서버는 Spring Boot기반입
 > - 기능 구현<br>
 > 목표 수익 달성 슬라이딩 수수료 지급, 사고보험금 지급, 조건별 에이전트 검색, 감가 상각액 및 누적 감가 상각액 계산 기능<br>
 > - 느낀점(배운점) : 구조화된 프레임워크(i-studio) 사용으로 높은 생산성, 유지보수 및 코드파악을 위한 주석의 필요성<br>
+   
