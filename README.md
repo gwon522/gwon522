@@ -1,16 +1,6 @@
 <div align="center">
   <h1> :computer: Developer Gwon`s :clap: </h1>
 </div>
-
-<div align="center">
-  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgwon522%2F&count_bg=%23830ED5&title_bg=%23B306FF&icon=angellist.svg&icon_color=%23FFFFFF&title=Visitor&edge_flat=true)](https://hits.seeyoufarm.com)
-  
-</div>
-
-![Gwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=gwon522&hide=contribs,prs&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gwon522&layout=compact&theme=tokyonight&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
-
 <br>
 <div align="center">
   <h2>💪 MY Develop Skills 💪</h2>
@@ -32,6 +22,10 @@
     
   </div>
 </div>
+
+<!-- ![Gwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=gwon522&hide=contribs,prs&show_icons=true&theme=tokyonight) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gwon522&layout=compact&theme=tokyonight&langs_count=7)](https://github.com/anuraghazra/github-readme-stats) -->
+
 <h3> ⏰ Now </h3>
 리액트에 관심이 있어 리액트 공부와 동시에 프로젝트를 진행 중입니다. 📖<br>
 <a href="https://github.com/gwon522/project">진행중인 프로젝트 (블라인드 클론코딩 react 구현) </a><br>
