@@ -18,7 +18,6 @@ reactNative로 앱 개발을 하고 있습니다. 서버는 Spring Boot기반입
 <h3> ⏰ Now </h3>
 리액트에 관심이 있어 리액트 공부와 동시에 프로젝트를 진행 중입니다. 📖<br>
 <a href="https://github.com/gwon522/project">진행중인 프로젝트 (블라인드 클론코딩 react 구현) </a><br>
- - react, react-redux, redux-saga, express, mysql, axios
 
 <br>
 <h3> 경력</h3>
