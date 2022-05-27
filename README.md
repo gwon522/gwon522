@@ -26,15 +26,12 @@
 
 <!-- ![Gwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=gwon522&hide=contribs,prs&show_icons=true&theme=tokyonight) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gwon522&layout=compact&theme=tokyonight&langs_count=7)](https://github.com/anuraghazra/github-readme-stats) -->
-
-<h3> ⏰ Now </h3>
-리액트에 관심이 있어 리액트 공부와 동시에 프로젝트를 진행 중입니다. 📖<br>
-<a href="https://github.com/gwon522/project">진행중인 프로젝트 (블라인드 클론코딩 react 구현) </a><br>
       
-
   
 <br>
 <h3> 경력</h3>
+<h4> 뱅크웨어글로벌 2022.04 ~ ing</h4>
+
 <h4> 다이몬소프트 2021.04 ~ 2022.03</h4>
   
 > ### 트랜스허브(웹 플랫폼)(2021.04 ~ 2022.03)
