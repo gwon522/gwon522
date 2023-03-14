@@ -32,6 +32,7 @@
 <h3> 경력</h3>
 <br>
 <h4> 뱅크웨어글로벌 2022.04 ~ ing</h4>
+
 > ### 코람코자산운용 인사/재무 ERP 시스템 구축 (2022.05 ~ 2023.01)
 > - 주요 업무 : ERP 공통개발 및 서버 인프라 담당
 > - 기술 스택 : JAVA, javascript, Jsp/Servlet, Spring, Oracle DB
