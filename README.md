@@ -31,14 +31,14 @@
 <br>
 <h3> 경력</h3>
 <br>
-<h4> <a href="https://www.teamfresh.co.kr/">팀프레시 2023.05 ~ ing</a> </h4>
+<h4> <a href="https://www.teamfresh.co.kr/" target="_blank">팀프레시 2023.05 ~ ing</a> </h4>
 
 > ### 코람코자산운용 펀드 ERP 시스템 구축 (2023.05 ~ ing)
 > - 주요 업무 : WMS 시스템 개발
 > - 기술 스택 : JAVA, SpringBoot, MYSQL DB, Docker, spring JPA, QueryDsl
 >   - 
 
-<h4> <a href="https://bankwareglobal.com/">뱅크웨어글로벌 2022.04 ~ 2023.05</a></h4>
+<h4> <a href="https://bankwareglobal.com/" target="_blank">뱅크웨어글로벌 2022.04 ~ 2023.05</a></h4>
 
 > ### 코람코자산운용 펀드 ERP 시스템 구축 (2022.01 ~ 2023.05)
 > - 주요 업무 : ERP 공통개발 및 서버 인프라 담당
@@ -55,7 +55,7 @@
 <h4> 다이몬소프트 2021.04 ~ 2022.03</h4>
   
 > ### 트랜스허브(웹 플랫폼)(2021.04 ~ 2022.03)
-> <a href="https://www.transhub.co.kr/main-login.do">물류운송관리시스템(TMS)</a> <br>
+> <a href="https://www.transhub.co.kr/main-login.do" target="_blank">물류운송관리시스템(TMS)</a> <br>
 > - 주요 업무 : 풀스택 개발
 > - 담당 역할 : 신규 기능 개발 및 유지 보수
 > - 기술 스택 : JAVA, Javascript, Jsp/Servlet, Spring, Oracle DB
