@@ -31,14 +31,14 @@
 <br>
 <h3> 경력</h3>
 <br>
-<h4> 팀프레시 2023.05 ~ ing </h4>
+<h4> <a href="https://www.teamfresh.co.kr/">팀프레시 2023.05 ~ ing</a> </h4>
 
 > ### 코람코자산운용 펀드 ERP 시스템 구축 (2023.05 ~ ing)
 > - 주요 업무 : WMS 시스템 개발
 > - 기술 스택 : JAVA, SpringBoot, MYSQL DB, Docker, spring JPA, QueryDsl
 >   - 
 
-<h4> 뱅크웨어글로벌 2022.04 ~ 2023.05</h4>
+<h4> <a href="https://bankwareglobal.com/">뱅크웨어글로벌 2022.04 ~ 2023.05</a></h4>
 
 > ### 코람코자산운용 펀드 ERP 시스템 구축 (2022.01 ~ 2023.05)
 > - 주요 업무 : ERP 공통개발 및 서버 인프라 담당
