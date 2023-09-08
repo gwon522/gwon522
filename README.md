@@ -33,8 +33,8 @@
 <br>
 <h4> <a href="https://www.teamfresh.co.kr/" target='_blank'>팀프레시 2023.05 ~ ing</a> </h4>
 
-> ### 코람코자산운용 펀드 ERP 시스템 구축 (2023.05 ~ ing)
-> - 주요 업무 : WMS 시스템 개발
+> ### 팀프레시 Warehouse Management System (2023.05 ~ ing)
+> - 주요 업무 : WMS 시스템 백엔드 개발
 > - 기술 스택 : JAVA, SpringBoot, MYSQL DB, Docker, spring JPA, QueryDsl
 >   - 
 
