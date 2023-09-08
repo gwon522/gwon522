@@ -64,7 +64,7 @@
 >   - 국내 일반 물류배송 유지보수
 
 > ### 트랜스허브(앱)(2021.04 ~ 2022.03)
-> <a href="https://play.google.com/store/apps/details?id=kr.co.shim&hl=ko&gl=US">물류 운송기사 전용 앱</a> <br>
+> <a href="https://play.google.com/store/apps/details?id=kr.daimon.transhub">물류 운송기사 전용 앱</a> <br>
 > - 주요 업무 : 풀스택개발
 > - 담당 역할 : 운영, 배포, 유지보수
 > - 기술 스택 : React-Native, Java, Javascript, SpringBoot, Oracle DB
