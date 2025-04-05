@@ -9,7 +9,7 @@
 ## 💻 My Development Skills
 
 <!-- 백엔드 -->
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring-Boot&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringDataJPA-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
@@ -20,14 +20,14 @@
 </p>
 
 <!-- 프론트엔드 -->
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
 </p>
 
 <!-- 데브옵스 & 협업 툴 -->
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=Nginx&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=Apache-Kafka&logoColor=white"/>
