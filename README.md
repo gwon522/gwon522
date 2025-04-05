@@ -3,7 +3,7 @@
 </p>
 <div align="center">
   <div>
-    <img src="https://img.shields.io/badge/leejingwon1995@gmail.com?style=flat-square&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/leejingwon1995@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   </div>
   ###   💪 MY Develop Skills 💪
   
