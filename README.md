@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ACBCFF&fontColor=0F1035&height=200&section=header&text=Jingwon`s+Github~&fontSize=40"/>
 </p>
-<div align="center">
+<div align="left">
   <div>
     <img src="https://img.shields.io/badge/leejingwon1995@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   </div>
